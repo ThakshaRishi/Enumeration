@@ -64,10 +64,10 @@ cache: This operator allows you to view the cached version of a page. For exampl
 ![Screenshot 2024-09-18 095038](https://github.com/user-attachments/assets/acfba47c-a48b-4202-9613-189aeb9d2d57)
 
  
-#DNS Enumeration
+## DNS Enumeration
 
 
-##DNS Recon
+## DNS Recon
 provides the ability to perform:
 Check all NS records for zone transfers
 Enumerate general DNS records for a given domain (MX, SOA, NS, A, AAAA, SPF , TXT)
