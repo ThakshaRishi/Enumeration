@@ -80,7 +80,7 @@ Top level domain expansion
 
 
 
-##dnsenum
+## dnsenum
 Dnsenum is a multithreaded perl script to enumerate DNS information of a domain and to discover non-contiguous ip blocks. The main purpose of Dnsenum is to gather as much information as possible about a domain. The program currently performs the following operations:
 
 Get the host’s addresses (A record).
@@ -99,7 +99,7 @@ This program is useful for pentesters, ethical hackers and forensics experts. It
 ![Screenshot 2024-09-18 110643](https://github.com/user-attachments/assets/36cead05-cb08-4852-9a66-daae87ee3fed)
 
 
-##smtp-user-enum
+## smtp-user-enum
 Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.
 
 
